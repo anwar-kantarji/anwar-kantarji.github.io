@@ -1,0 +1,18 @@
+{
+  "name": "age_calculator",
+  "short_name": "age_calculator",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0175C2",
+  "theme_color": "#0175C2",
+  "description": "A new Flutter project.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}
